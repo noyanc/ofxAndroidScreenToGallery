@@ -1,7 +1,7 @@
 # ofxAndroidScreenToGallery
 Android ScreenToGallery addon for openFrameworks
 
-This is an openFrameworks addon, which saves a screenshot into the Android's screenshot gallery.
+This is an openFrameworks addon to save a screenshot into the Android's screenshot gallery.
 
 Licence: MIT
 
